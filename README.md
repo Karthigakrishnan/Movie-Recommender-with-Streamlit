@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender Streamlit App
 
-![movies banner](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![movies banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1dGJveG93bWhzdHczYnp4NXNyeDc3amd5ZXo5aGNzNGFuMmkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sb7WSbjHFNIL6/giphy.gif)
 
 ## 🔍 What is this?
 
